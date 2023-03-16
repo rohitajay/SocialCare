@@ -25,6 +25,7 @@ Improved understanding of Employee's problem can help better communication, rapp
 3. It can be used for review analysis in real time.
 
 # Visualizations 
+
 ![img_2.png](Images/positive_tweets.png)
 
 ![img_3.png](Images/overall_tweets.png)
